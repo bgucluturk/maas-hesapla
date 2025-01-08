@@ -1,5 +1,4 @@
 # maas-hesapla
-Okulda istenen bi ödeve istinaden yazılan kod satırları..
 
 İsterler Aşağıda belirttiğim gibidir..
 terminalden öğretmen maaşını gir
